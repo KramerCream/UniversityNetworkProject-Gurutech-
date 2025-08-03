@@ -68,10 +68,5 @@ Here is the visual representation of the topology:
 
 ---
 
-## 📁 Included Files
-
-- `https://github.com/KramerCream/UniversityNetworkProject-Gurutech-/blob/main/University%20Campus%20Project.pkt` (Packet Tracer file)
-
----
 
 
