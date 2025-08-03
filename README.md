@@ -70,9 +70,7 @@ Here is the visual representation of the topology:
 
 ## 📁 Included Files
 
-- `    UniversityNetworkProject-Gurutech-
-
-/University Campus Project.pkt` (Packet Tracer file)
+- `https://github.com/KramerCream/UniversityNetworkProject-Gurutech-/blob/main/University%20Campus%20Project.pkt` (Packet Tracer file)
 
 ---
 
