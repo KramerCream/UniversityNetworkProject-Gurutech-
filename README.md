@@ -6,7 +6,7 @@ This project simulates a medium-sized hierarchical network using Cisco Packet Tr
 
 ---
 
-## Objectives
+## 📋 Project Objectives
 
 - Create a hierarchical network topology using Cisco Packet Tracer.
 - Connect networking devices with appropriate cabling.
@@ -65,6 +65,12 @@ Here is the visual representation of the topology:
 - Host devices are assigned IPs dynamically using the router's DHCP pools.
 - VLAN interfaces (SVIs) are created for each department.
 - All devices are verified for successful communication using `ping`, `traceroute`, and `SSH`.
+
+---
+
+## 📁 Included Files
+
+- `banking-network.pkt` (Packet Tracer file)
 
 ---
 
