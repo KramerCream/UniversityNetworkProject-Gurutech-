@@ -70,7 +70,7 @@ Here is the visual representation of the topology:
 
 ## 📁 Included Files
 
-- `banking-network.pkt` (Packet Tracer file)
+- `University-Campus-Project` (Packet Tracer file)
 
 ---
 
