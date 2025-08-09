@@ -42,7 +42,7 @@ This project simulates a medium-sized hierarchical network using Cisco Packet Tr
 ---
 
 Here is the visual representation of the topology: 
-<img width="2681" height="1094" alt="UniversityCampusNetworkProject" src="https://github.com/user-attachments/assets/ab3a66dd-5066-48b7-b99f-b8bb117fec82" />
+<img width="2681" height="1094" alt="UniversityCampusNetworkProject.png" src="https://github.com/user-attachments/assets/ab3a66dd-5066-48b7-b99f-b8bb117fec82" />
 
 ---
 
